@@ -1,0 +1,204 @@
+Order_ID,Order_Date,Customer_ID,Gender,Product_Category,Product_Name,Quantity,Price,Total_Sales,City,Payment_Method
+ORD10000,2024-10-16,CUST1906,Male,Accessories,Bluetooth Speaker,1,115.87,115.87,Ismailia,Credit Card
+ORD10001,2023-04-25,CUST1768,Female,Mobile,Galaxy Z,1,669.28,669.28,Tanta,COD
+ORD10002,2023-01-26,CUST1787,Female,Mobile,iSmart S,3,303.87,911.61,Giza,COD
+ORD10003,2025-01-29,CUST1348,Male,Accessories,NoiseCancel Headphones,2,100.92,201.84,Cairo,COD
+ORD10004,2023-10-09,CUST1300,Male,Accessories,Wireless Charger,2,27.82,55.64,Ismailia,PayPal
+ORD10005,2023-09-08,CUST1161,Male,Laptop,GamingPro 15,1,1912.27,1912.27,,Bank Transfer
+ORD10006,2023-08-17,CUST1003,Male,Tablet,NoteTab 10,1,362.21,362.21,Aswan,COD
+ORD10007,2023-05-23,CUST1995,Female,Accessories,Bluetooth Speaker,3,82.8,248.4,Ismailia,Credit Card
+ORD10008,2025-01-24,CUST1780,Female,Tablet,TabPro 11,3,698.37,2095.11,Tanta,PayPal
+ORD10009,2023-04-15,CUST1519,Female,Accessories,NoiseCancel Headphones,2,57.35,114.7,Aswan,Credit Card
+ORD10010,2024-11-23,CUST1891,Male,Accessories,Bluetooth Speaker,1,188.9,188.9,Giza,Credit Card
+ORD10011,2025-01-28,CUST1305,Female,Mobile,iSmart S,1,306.52,306.52,Ismailia,Credit Card
+ORD10012,2025-07-02,CUST1519,Female,Tablet,TabPro 11,1,544.68,544.68,Aswan,
+ORD10013,2024-07-12,CUST1156,Male,Tablet,NoteTab 10,1,212.9,212.9,Cairo,Bank Transfer
+ORD10014,2023-03-31,CUST1780,Male,Laptop,UltraBook X14,1,920.98,920.98,Giza,PayPal
+ORD10015,2024-08-27,CUST1552,Male,Laptop,WorkMate 13,1,665.71,665.71,Cairo,COD
+ORD10016,2024-03-08,CUST1940,Male,Mobile,PixelOne 6,1,699.12,699.12,Mansoura,Credit Card
+ORD10017,2023-02-02,CUST1613,Male,Accessories,Wireless Charger,3,35.12,105.36,Alexandria,Credit Card
+ORD10018,2023-01-31,CUST1500,Male,Wearable,FitWatch X,1,187.36,187.36,Ismailia,Credit Card
+ORD10019,2023-04-06,CUST1114,Male,Laptop,GamingPro 15,1,1526.96,1526.96,Aswan,Credit Card
+ORD10020,2023-08-12,CUST1899,Female,Mobile,Galaxy Z,1,,770.14,Alexandria,COD
+ORD10021,2023-08-27,CUST1245,Male,Mobile,PixelOne 6,1,748.57,748.57,Alexandria,PayPal
+ORD10022,2024-06-01,CUST1246,Male,Wearable,FitWatch X,2,131.27,262.54,Aswan,COD
+ORD10023,2024-09-08,CUST1087,Male,Accessories,Bluetooth Speaker,1,89.1,89.1,Giza,Credit Card
+ORD10024,2023-01-28,CUST1497,Male,Accessories,NoiseCancel Headphones,2,229.42,458.84,Ismailia,Bank Transfer
+ORD10025,2024-07-28,CUST1778,Female,Mobile,iSmart S,2,349.36,698.72,Mansoura,PayPal
+ORD10026,2023-07-23,CUST1784,Male,Mobile,PixelOne 6,1,676.62,676.62,Cairo,COD
+ORD10027,2025-01-03,CUST1131,Male,Mobile,iSmart S,1,368.38,368.38,Tanta,COD
+ORD10028,2024-10-27,CUST1486,Male,Laptop,WorkMate 13,1,848.03,848.03,Cairo,Credit Card
+ORD10029,2024-12-19,CUST1169,Male,Tablet,NoteTab 10,1,552.25,552.25,Tanta,Credit Card
+ORD10030,2024-07-12,CUST1540,Female,Accessories,Bluetooth Speaker,1,47.3,47.3,Cairo,Credit Card
+ORD10031,2024-03-05,CUST1433,Male,Wearable,FitWatch X,1,136.97,136.97,Aswan,PayPal
+ORD10032,2023-08-14,CUST1951,Male,Wearable,FitWatch X,1,61.74,61.74,Mansoura,Credit Card
+ORD10033,2024-04-04,CUST1730,Female,Mobile,Galaxy Z,2,1009.97,2019.94,Ismailia,Credit Card
+ORD10034,2024-08-26,CUST1408,Female,Accessories,Bluetooth Speaker,2,81.57,163.14,Tanta,Credit Card
+ORD10035,2023-10-12,CUST1665,Female,Tablet,NoteTab 10,1,199.78,199.78,Ismailia,Credit Card
+ORD10036,2025-04-08,CUST1448,Male,Accessories,Bluetooth Speaker,1,42.95,42.95,Ismailia,PayPal
+ORD10037,2025-06-09,CUST1462,Male,Laptop,UltraBook X14,1,1278.38,1278.38,Ismailia,PayPal
+ORD10038,2023-01-07,CUST1253,Female,Mobile,PixelOne 6,1,437.55,437.55,Hurghada,Credit Card
+ORD10039,2025-02-16,CUST1065,Male,Laptop,GamingPro 15,1,1864.04,1864.04,Giza,Credit Card
+ORD10040,2025-04-05,CUST1021,Male,Wearable,FitWatch X,1,292.88,292.88,Cairo,Credit Card
+ORD10041,2023-06-13,CUST1602,Male,Accessories,NoiseCancel Headphones,1,85.4,85.4,Ismailia,Credit Card
+ORD10042,2024-12-15,CUST1007,Male,Laptop,UltraBook X14,2,908.96,1817.92,Cairo,Credit Card
+ORD10043,2024-03-08,CUST1724,Female,Accessories,Bluetooth Speaker,1,125.01,125.01,Ismailia,Credit Card
+ORD10044,2023-12-15,CUST1060,Male,Accessories,NoiseCancel Headphones,3,131.64,394.92,Tanta,Credit Card
+ORD10045,2023-10-12,CUST1069,Female,Mobile,PixelOne 6,1,392.01,392.01,Giza,COD
+ORD10046,2023-06-09,CUST1880,Male,Laptop,GamingPro 15,1,1607.07,1607.07,Giza,COD
+ORD10047,2023-08-09,CUST1072,Male,Accessories,Bluetooth Speaker,3,23.26,69.78,Aswan,Credit Card
+ORD10048,2025-09-07,CUST1243,Male,Mobile,Galaxy Z,1,1145.69,1145.69,Hurghada,Credit Card
+ORD10049,2025-02-20,CUST1685,Male,Accessories,Wireless Charger,3,58.77,176.31,Aswan,COD
+ORD10050,2023-12-11,CUST1219,Female,Mobile,iSmart S,1,851.15,851.15,Aswan,COD
+ORD10051,2023-04-15,CUST1135,Female,Tablet,NoteTab 10,1,409.33,409.33,Aswan,PayPal
+ORD10052,2023-04-05,CUST1248,Female,Mobile,Galaxy Z,1,739.3,739.3,Aswan,COD
+ORD10053,2024-01-25,CUST1826,Female,Mobile,Galaxy Z,2,1147.49,2294.98,Aswan,Credit Card
+ORD10054,2023-04-10,CUST1194,Male,Tablet,TabPro 11,1,470.5,470.5,Mansoura,Credit Card
+ORD10055,2024-01-03,CUST1099,Female,Mobile,iSmart S,1,1087.12,1087.12,Giza,COD
+ORD10056,2025-05-17,CUST1441,Male,Laptop,GamingPro 15,2,1149.6,2299.2,Aswan,Credit Card
+ORD10057,2023-12-19,CUST1433,Male,Laptop,GamingPro 15,1,2043.88,2043.88,Ismailia,COD
+ORD10058,2024-09-10,CUST1478,Male,Accessories,Bluetooth Speaker,1,126.43,126.43,Giza,Bank Transfer
+ORD10059,2023-09-28,CUST1055,Male,Accessories,Bluetooth Speaker,1,29.86,29.86,Giza,COD
+ORD10060,2025-04-06,CUST1669,Male,Accessories,Bluetooth Speaker,1,164.51,164.51,Alexandria,Credit Card
+ORD10061,2023-02-14,CUST1100,Male,Laptop,UltraBook X14,1,1000.1,1000.1,Mansoura,COD
+ORD10062,2025-01-17,CUST1412,Female,Laptop,WorkMate 13,2,814.96,1629.92,Aswan,Credit Card
+ORD10063,2024-04-15,CUST1347,Male,Laptop,UltraBook X14,1,1007.81,1007.81,Cairo,COD
+ORD10064,2024-07-03,CUST1254,Male,Mobile,PixelOne 6,1,742.5,742.5,Tanta,Bank Transfer
+ORD10065,2023-05-08,CUST1194,Male,Mobile,iSmart S,1,440.91,440.91,Hurghada,Credit Card
+ORD10066,2025-09-23,CUST1459,Male,Mobile,PixelOne 6,1,384.51,384.51,Ismailia,Bank Transfer
+ORD10067,2025-08-02,CUST1432,Female,Mobile,PixelOne 6,1,599.02,599.02,Cairo,Bank Transfer
+ORD10068,2024-01-23,CUST1285,Male,Tablet,NoteTab 10,1,561.68,561.68,Mansoura,Credit Card
+ORD10069,2023-03-22,CUST1255,Female,Mobile,PixelOne 6,1,648.35,648.35,Tanta,Credit Card
+ORD10070,2024-07-19,CUST1453,Female,Mobile,iSmart S,1,261.13,261.13,Mansoura,Credit Card
+ORD10071,2023-10-28,CUST1100,Male,Accessories,NoiseCancel Headphones,4,69.17,276.68,Ismailia,Credit Card
+ORD10072,2025-04-29,CUST1667,Male,Mobile,iSmart S,1,376.36,376.36,Giza,Credit Card
+ORD10073,2024-10-05,CUST1856,Female,Accessories,NoiseCancel Headphones,4,48.78,195.12,Tanta,COD
+ORD10074,2024-09-25,CUST1992,Female,Tablet,TabPro 11,1,501.32,501.32,Giza,Credit Card
+ORD10075,2025-06-25,CUST1948,Female,Tablet,TabPro 11,1,240.25,240.25,Ismailia,Credit Card
+ORD10076,2025-06-01,CUST1170,Female,Laptop,GamingPro 15,2,1251.89,2503.78,Cairo,PayPal
+ORD10077,2024-01-06,CUST1497,Male,Tablet,NoteTab 10,1,242.31,242.31,Ismailia,Credit Card
+ORD10078,2024-08-14,CUST1218,Male,Mobile,Galaxy Z,1,429.24,429.24,Cairo,PayPal
+ORD10079,2023-07-16,CUST1924,Male,Mobile,PixelOne 6,1,638.9,638.9,Tanta,Credit Card
+ORD10080,2024-12-22,CUST1168,Female,Mobile,Galaxy Z,1,1020.42,1020.42,Tanta,Credit Card
+ORD10081,2023-03-13,CUST1002,Female,Wearable,HealthBand 2,1,119.15,119.15,Aswan,COD
+ORD10082,2023-02-16,CUST1271,Male,Mobile,Galaxy Z,1,720.61,720.61,Mansoura,COD
+ORD10083,2024-11-08,CUST1292,Male,Mobile,Galaxy Z,1,524.19,524.19,Aswan,PayPal
+ORD10084,2023-08-22,CUST1713,Male,Accessories,Bluetooth Speaker,3,175.12,525.36,Mansoura,PayPal
+ORD10085,2025-03-02,CUST1802,Male,Laptop,WorkMate 13,1,749.32,749.32,Aswan,PayPal
+ORD10086,2023-10-24,CUST1677,Female,Laptop,WorkMate 13,1,857.6,857.6,Giza,Credit Card
+ORD10087,2023-03-23,CUST1498,Female,Laptop,UltraBook X14,1,815.23,815.23,Tanta,Credit Card
+ORD10088,2025-05-25,CUST1194,Female,Laptop,GamingPro 15,1,1859.17,1859.17,Cairo,PayPal
+ORD10089,2023-08-27,CUST1222,Male,Laptop,UltraBook X14,1,816.26,816.26,Mansoura,PayPal
+ORD10090,2025-06-06,CUST1593,Male,Laptop,WorkMate 13,1,692.43,692.43,Ismailia,Bank Transfer
+ORD10091,2023-04-14,CUST1555,Female,Accessories,NoiseCancel Headphones,1,34.34,34.34,Mansoura,Credit Card
+ORD10092,2024-01-25,CUST1765,Female,Laptop,GamingPro 15,1,1959.9,1959.9,Cairo,Credit Card
+ORD10093,2023-10-12,CUST1058,Male,Mobile,PixelOne 6,1,691.65,691.65,Aswan,PayPal
+ORD10094,2024-04-09,CUST1598,Female,Tablet,NoteTab 10,1,194.75,194.75,Mansoura,Credit Card
+ORD10095,2024-10-12,CUST1514,Male,Mobile,iSmart S,2,863.93,1727.86,Hurghada,Bank Transfer
+ORD10096,2025-05-04,CUST1161,Male,Accessories,NoiseCancel Headphones,1,212.65,212.65,Giza,PayPal
+ORD10097,2024-01-09,CUST1983,Male,Laptop,WorkMate 13,1,867.23,867.23,Tanta,Credit Card
+ORD10098,2023-06-16,CUST1082,Male,Laptop,UltraBook X14,2,975.89,1951.78,Cairo,PayPal
+ORD10099,2024-01-15,CUST1070,Male,Laptop,WorkMate 13,1,605.2,605.2,Tanta,PayPal
+ORD10100,2023-12-30,CUST1069,Male,Laptop,WorkMate 13,1,683.15,683.15,Hurghada,Credit Card
+ORD10101,2023-08-03,CUST1882,Female,Mobile,PixelOne 6,1,408.86,408.86,Mansoura,Bank Transfer
+ORD10102,2024-11-17,CUST1413,Male,Laptop,UltraBook X14,2,1052.85,2105.7,Mansoura,COD
+ORD10103,2023-10-01,CUST1964,Male,Laptop,WorkMate 13,1,926.98,926.98,Ismailia,PayPal
+ORD10104,2024-12-19,CUST1252,Female,Laptop,WorkMate 13,1,703.77,703.77,Hurghada,Credit Card
+ORD10105,2025-08-17,CUST1608,Male,Mobile,PixelOne 6,1,654.18,654.18,Cairo,PayPal
+ORD10106,2024-11-30,CUST1634,Male,Laptop,UltraBook X14,1,1174.49,1174.49,Ismailia,Credit Card
+ORD10107,2024-10-25,CUST1429,Female,Mobile,iSmart S,1,719.24,719.24,Giza,Credit Card
+ORD10108,2023-03-15,CUST1597,Male,Mobile,iSmart S,2,500.3,1000.6,Ismailia,Bank Transfer
+ORD10109,2024-09-15,CUST1535,Male,Accessories,Wireless Charger,1,63.45,63.45,Alexandria,Credit Card
+ORD10110,2024-10-12,CUST1957,Male,Laptop,GamingPro 15,1,2042.16,2042.16,Cairo,Credit Card
+ORD10111,2023-06-25,CUST1209,Male,Accessories,Bluetooth Speaker,2,181.02,362.04,Alexandria,Bank Transfer
+ORD10112,2024-06-30,CUST1733,Female,Accessories,Wireless Charger,1,39.76,39.76,Hurghada,Bank Transfer
+ORD10113,2025-01-16,CUST1244,Female,Laptop,GamingPro 15,1,1322.41,1322.41,Aswan,COD
+ORD10114,2023-09-08,CUST1405,Female,Tablet,TabPro 11,1,580.09,580.09,Alexandria,COD
+ORD10115,2023-06-17,CUST1687,Female,Tablet,NoteTab 10,1,212.71,212.71,Giza,Credit Card
+ORD10116,2024-04-18,CUST1468,Female,Laptop,GamingPro 15,1,2181.28,2181.28,Ismailia,Credit Card
+ORD10117,2024-01-24,CUST1951,Male,Mobile,PixelOne 6,1,403.01,403.01,Aswan,Credit Card
+ORD10118,2023-10-04,CUST1009,Female,Accessories,Wireless Charger,3,11.29,33.87,Ismailia,COD
+ORD10119,2025-08-05,CUST1636,Male,Accessories,Bluetooth Speaker,1,41.2,41.2,Alexandria,PayPal
+ORD10120,2024-10-17,CUST1102,Female,Laptop,UltraBook X14,1,964.43,964.43,Ismailia,PayPal
+ORD10121,2024-12-05,CUST1550,Female,Laptop,UltraBook X14,1,1190.85,1190.85,Hurghada,PayPal
+ORD10122,2024-07-24,CUST1518,Male,Mobile,Galaxy Z,1,565.14,565.14,Aswan,Credit Card
+ORD10123,2023-08-13,CUST1135,Male,Mobile,Galaxy Z,2,509.51,1019.02,Hurghada,Credit Card
+ORD10124,2024-12-02,CUST1902,Male,Accessories,NoiseCancel Headphones,1,222.26,222.26,Alexandria,Credit Card
+ORD10125,2023-11-29,CUST1900,Male,Mobile,PixelOne 6,1,660.31,660.31,Hurghada,COD
+ORD10126,2025-05-13,CUST1378,Female,Mobile,Galaxy Z,2,540.3,1080.6,Giza,Credit Card
+ORD10127,2025-02-25,CUST1161,Female,Accessories,Wireless Charger,1,39.31,39.31,Alexandria,PayPal
+ORD10128,2025-03-05,CUST1853,Male,Laptop,WorkMate 13,1,807.57,807.57,Alexandria,Credit Card
+ORD10129,2023-02-27,CUST1720,Male,Mobile,Galaxy Z,1,533.03,533.03,Alexandria,Credit Card
+ORD10130,2023-08-23,CUST1626,Male,Accessories,Bluetooth Speaker,2,34.9,69.8,Cairo,Credit Card
+ORD10131,2025-04-21,CUST1541,Male,Tablet,TabPro 11,1,347.21,347.21,Ismailia,PayPal
+ORD10132,2023-02-02,CUST1683,Male,Mobile,iSmart S,1,495.39,495.39,Cairo,COD
+ORD10133,2025-04-04,CUST1306,Male,Mobile,iSmart S,1,861.19,861.19,Cairo,Credit Card
+ORD10134,2023-11-20,CUST1106,Female,Laptop,UltraBook X14,1,1139.84,1139.84,Giza,Credit Card
+ORD10135,2024-02-15,CUST1270,Male,Mobile,PixelOne 6,2,698.2,1396.4,Aswan,PayPal
+ORD10136,2023-10-02,CUST1911,Male,Mobile,PixelOne 6,1,739.54,739.54,Ismailia,Credit Card
+ORD10137,2023-03-09,CUST1760,Female,Laptop,WorkMate 13,1,612.47,612.47,Hurghada,PayPal
+ORD10138,2023-08-05,CUST1159,Male,Mobile,Galaxy Z,1,876.06,876.06,Mansoura,PayPal
+ORD10139,2025-07-24,CUST1288,Female,Mobile,iSmart S,1,671.91,671.91,Alexandria,Credit Card
+ORD10140,2025-08-23,CUST1215,Female,Laptop,WorkMate 13,1,733.7,733.7,Hurghada,Credit Card
+ORD10141,2024-08-03,CUST1351,Male,Mobile,PixelOne 6,1,363.96,363.96,Alexandria,Bank Transfer
+ORD10142,2025-06-16,CUST1703,Male,Laptop,WorkMate 13,1,891.28,891.28,Giza,Credit Card
+ORD10143,2025-01-05,CUST1873,Male,Mobile,Galaxy Z,1,950.72,950.72,Alexandria,Credit Card
+ORD10144,2023-11-19,CUST1517,Male,Laptop,GamingPro 15,1,1295.68,1295.68,Cairo,PayPal
+ORD10145,2023-08-06,CUST1257,Male,Tablet,TabPro 11,1,679.65,679.65,Ismailia,Bank Transfer
+ORD10146,2024-11-02,CUST1094,Female,Mobile,iSmart S,1,481.32,481.32,Mansoura,Bank Transfer
+ORD10147,2024-05-26,CUST1433,Male,Accessories,Wireless Charger,1,35.27,35.27,Tanta,PayPal
+ORD10148,2024-02-10,CUST1045,Male,Accessories,NoiseCancel Headphones,1,231.81,231.81,Alexandria,Credit Card
+ORD10149,2025-06-24,CUST1341,Male,Mobile,PixelOne 6,1,870.14,870.14,Hurghada,Credit Card
+ORD10150,2025-07-25,CUST1652,Female,Laptop,GamingPro 15,1,1222.16,1222.16,Cairo,PayPal
+ORD10151,2024-10-20,CUST1165,Male,Mobile,iSmart S,1,992.0,992.0,Tanta,COD
+ORD10152,2024-04-14,CUST1452,Male,Mobile,iSmart S,1,935.58,935.58,Mansoura,Credit Card
+ORD10153,2023-05-27,CUST1722,Male,Accessories,Wireless Charger,2,58.46,116.92,Tanta,Bank Transfer
+ORD10154,2023-09-29,CUST1574,Female,Mobile,PixelOne 6,1,449.8,449.8,Cairo,Credit Card
+ORD10155,2023-05-23,CUST1114,Male,Laptop,UltraBook X14,3,932.73,2798.19,Ismailia,Credit Card
+ORD10156,2023-09-10,CUST1967,Female,Mobile,iSmart S,1,1052.45,1052.45,Ismailia,Credit Card
+ORD10157,2025-02-01,CUST1925,Female,Mobile,PixelOne 6,2,723.35,1446.7,Aswan,Credit Card
+ORD10158,2024-07-28,CUST1558,Male,Accessories,NoiseCancel Headphones,1,69.73,69.73,Ismailia,Credit Card
+ORD10159,2024-07-05,CUST1854,Female,Mobile,Galaxy Z,1,1132.39,1132.39,Aswan,Credit Card
+ORD10160,2023-09-27,CUST1596,Male,Mobile,iSmart S,1,842.81,842.81,Tanta,Credit Card
+ORD10161,2025-02-03,CUST1151,Female,Wearable,HealthBand 2,3,187.15,561.45,Giza,COD
+ORD10162,2024-08-21,CUST1130,Female,Accessories,NoiseCancel Headphones,1,237.74,237.74,Hurghada,PayPal
+ORD10163,2024-03-14,CUST1315,Male,Laptop,GamingPro 15,1,2034.45,2034.45,Hurghada,COD
+ORD10164,2025-07-08,CUST1920,Male,Laptop,UltraBook X14,1,991.46,991.46,Tanta,Bank Transfer
+ORD10165,2024-08-20,CUST1920,Female,Laptop,GamingPro 15,1,1044.41,1044.41,Alexandria,Credit Card
+ORD10166,2024-02-13,CUST1215,Male,Laptop,WorkMate 13,1,692.0,692.0,Alexandria,Credit Card
+ORD10167,2024-01-06,CUST1255,Male,Laptop,WorkMate 13,1,630.78,630.78,Ismailia,PayPal
+ORD10168,2023-08-13,CUST1105,Male,Laptop,GamingPro 15,1,1407.85,1407.85,Hurghada,Credit Card
+ORD10169,2023-05-22,CUST1798,Male,Mobile,iSmart S,1,305.55,305.55,Hurghada,Bank Transfer
+ORD10170,2024-06-05,CUST1905,Female,Laptop,GamingPro 15,1,1647.39,1647.39,Aswan,Credit Card
+ORD10171,2024-05-20,CUST1997,Male,Tablet,TabPro 11,1,391.25,391.25,Giza,Bank Transfer
+ORD10172,2023-04-04,CUST1947,Male,Laptop,UltraBook X14,1,1331.59,1331.59,Cairo,Credit Card
+ORD10173,2025-02-12,CUST1885,Male,Mobile,PixelOne 6,1,439.78,439.78,Alexandria,PayPal
+ORD10174,2023-02-18,CUST1999,Female,Mobile,PixelOne 6,1,822.06,822.06,Hurghada,COD
+ORD10175,2025-05-31,CUST1902,Male,Wearable,HealthBand 2,1,178.7,178.7,Aswan,Bank Transfer
+ORD10176,2023-04-23,CUST1025,Female,Laptop,UltraBook X14,1,1363.44,1363.44,Mansoura,Credit Card
+ORD10177,2023-06-06,CUST1754,Male,Mobile,Galaxy Z,1,1198.35,1198.35,Aswan,COD
+ORD10178,2024-10-04,CUST1801,Female,Wearable,HealthBand 2,1,160.42,160.42,Alexandria,Bank Transfer
+ORD10179,2023-06-13,CUST1821,Male,Tablet,TabPro 11,1,487.93,487.93,Alexandria,COD
+ORD10180,2025-03-22,CUST1273,Male,Accessories,NoiseCancel Headphones,4,222.21,888.84,Aswan,COD
+ORD10181,2024-11-27,CUST1806,Male,Mobile,iSmart S,1,903.03,903.03,Cairo,COD
+ORD10182,2024-03-08,CUST1110,Female,Laptop,GamingPro 15,1,1505.63,1505.63,Tanta,Credit Card
+ORD10183,2024-09-02,CUST1893,Female,Accessories,NoiseCancel Headphones,1,82.53,82.53,Alexandria,COD
+ORD10184,2023-03-07,CUST1879,Male,Tablet,NoteTab 10,1,309.58,309.58,Aswan,COD
+ORD10185,2024-01-30,CUST1227,Female,Mobile,PixelOne 6,1,477.78,477.78,Hurghada,Bank Transfer
+ORD10186,2024-01-26,CUST1836,Female,Mobile,Galaxy Z,1,433.67,433.67,Aswan,Credit Card
+ORD10187,2024-09-02,CUST1358,Male,Mobile,Galaxy Z,1,1190.18,1190.18,Giza,Credit Card
+ORD10188,2024-04-24,CUST1840,Male,Accessories,NoiseCancel Headphones,2,114.55,229.1,Tanta,Bank Transfer
+ORD10189,2024-06-25,CUST1228,Male,Laptop,UltraBook X14,2,930.95,1861.9,Mansoura,PayPal
+ORD10190,2023-09-15,CUST1675,Male,Mobile,PixelOne 6,1,771.81,771.81,Cairo,Credit Card
+ORD10191,2025-09-21,CUST1408,Female,Mobile,Galaxy Z,2,734.06,1468.12,Ismailia,COD
+ORD10192,2024-07-20,CUST1285,Female,Mobile,PixelOne 6,1,866.84,866.84,Mansoura,Credit Card
+ORD10193,2025-05-31,CUST1990,Female,Laptop,GamingPro 15,1,1736.09,1736.09,Tanta,Credit Card
+ORD10194,2025-08-23,CUST1359,Male,Laptop,WorkMate 13,1,996.47,996.47,Tanta,Credit Card
+ORD10195,2023-01-12,CUST1521,Male,Accessories,Wireless Charger,2,75.99,151.98,Tanta,Credit Card
+ORD10196,2024-11-27,CUST1695,Female,Mobile,iSmart S,1,766.58,766.58,Mansoura,COD
+ORD10197,2025-01-08,CUST1339,Female,Mobile,PixelOne 6,1,438.4,438.4,Hurghada,Credit Card
+ORD10198,2023-04-28,CUST1118,Female,Laptop,GamingPro 15,1,1264.58,1264.58,Tanta,Bank Transfer
+ORD10199,2024-11-29,CUST1182,Female,Mobile,iSmart S,1,912.65,912.65,Aswan,Bank Transfer
+ORD10058,2024-09-10,CUST1478,Male,Accessories,Bluetooth Speaker,1,126.43,126.43,Giza,Bank Transfer
+ORD10040,2025-04-05,CUST1021,Male,Wearable,FitWatch X,1,292.88,292.88,Cairo,Credit Card
+ORD10034,2024-08-26,CUST1408,Female,Accessories,Bluetooth Speaker,2,81.57,163.14,Tanta,Credit Card
