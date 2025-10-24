@@ -1,8 +1,6 @@
 # Store-Sales-Analysis
 Exploratory Data Analysis (EDA) and visualization of store sales data using Python, Pandas, and Matplotlib. This notebook includes data cleaning steps and analyzes sales trends by city, product category, payment method, gender, and time periods (month/year).
 
-# Store Sales Analysis
-
 ## Description
 This repository contains a Jupyter Notebook (`sales_data_EDA.ipynb`) that performs data cleaning, exploratory data analysis (EDA), and visualization on a store sales dataset (`techwave_sales.csv`). The analysis aims to uncover trends and insights related to sales performance across different dimensions like location, product categories, customer demographics, payment methods, and time.
 
